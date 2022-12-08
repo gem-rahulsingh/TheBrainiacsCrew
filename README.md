@@ -10,10 +10,11 @@
 - Once Done raise a Pull Request for the Branch on which you have worked on.
 - Reviewer will veiw your PR and process it.
 
-### Mandatory files to be included in POC :
+### Must have files :
 - Installation Guide
 - Working Sample Project
 - POC PPT with Advantages/Disadvantages
+- Refernce and Related document and code
 
 ### For adding a new branch for POC please reachout to below members :
 - [@gem-akshikhattar](https://github.com/gem-akshikhattar)
