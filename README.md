@@ -13,8 +13,8 @@
 ### Must have files :
 - Installation Guide
 - Working Sample Project
-- POC PPT with Advantages/Disadvantages
-- Refernce and Related document and code
+- POC PPT with Advantages/Disadvantages and What to learn!
+- Related documents and code
 
 ### For adding a new branch for POC please reachout to below members :
 - [@gem-akshikhattar](https://github.com/gem-akshikhattar)
