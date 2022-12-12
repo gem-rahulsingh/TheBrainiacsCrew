@@ -1,0 +1,8 @@
+node_modules
+allure-results
+allure-report
+allure-results-test
+allure-results-dev
+.vscode
+test.conf.ts
+info.txt

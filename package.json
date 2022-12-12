@@ -1,0 +1,46 @@
+{
+  "name": "wdio-orange-hrm-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "config": "npx wdio config",
+    "test": "npx wdio run wdio.conf.ts",
+    "file": "npx wdio run wdio.conf.ts --spec",
+    "smoke": "npx wdio run wdio.conf.ts --suite smoke",
+    "reg": "npx wdio run wdio.conf.ts --suite regression",
+    "tag": "npx wdio run wdio.conf.ts --cucumberOpts.tagExpression",
+    "test-env": "npx wdio run config/wdio.test.conf.ts",
+    "dev-env": "npx wdio run config/wdio.dev.conf.ts",
+    "test-bs": "npx wdio run config/wdio.bs.conf.ts",
+    "test-sl": "npx wdio run config/wdio.sl.conf.ts",
+    "allure": "npx allure generate allure-results --clean && allure open",
+    "allure-test": "npx allure generate allure-results-test --clean && allure open",
+    "allure-dev": "npx allure generate allure-results-dev --clean && allure open"
+  },
+  "keywords": [
+    "orange-hrm",
+    "webdriver io",
+    "cucumber",
+    "typescript"
+  ],
+  "author": "shubham.kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@wdio/allure-reporter": "^7.26.0",
+    "@wdio/browserstack-service": "^7.27.0",
+    "@wdio/cli": "^7.26.0",
+    "@wdio/cucumber-framework": "^7.26.0",
+    "@wdio/local-runner": "^7.26.0",
+    "@wdio/sauce-service": "^7.27.0",
+    "@wdio/selenium-standalone-service": "^7.26.0",
+    "@wdio/spec-reporter": "^7.26.0",
+    "allure-commandline": "^2.20.1",
+    "chai": "^4.3.7",
+    "chromedriver": "^107.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3",
+    "wdio-chromedriver-service": "^8.0.0"
+  }
+}
