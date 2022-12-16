@@ -12,17 +12,22 @@
   - Select your ID as Owner, Don't select Gemini Solutions as Owner
   - Uncheck : Copy the master branch only
 - Once Done raise a Pull Request for the Branch on which you have worked on.
+![image](https://user-images.githubusercontent.com/83968447/208085255-088b97e7-f435-43a2-b4ef-eb38d1ce9267.png)
+  - Create a new Pull Request
+  - Select base repository - Gemini-Solutions/TheBrainiacsCrew and head repository - <username>/TheBrainiacCrew
+  - Select same branch for both repo which you want to merge.
 - Reviewer will veiw your PR and process it.
 
 ### Must have files :
 - Installation Guide
-- Working Sample Project
+- Working Project
 - POC PPT with Advantages/Disadvantages and What to learn!
 - Related documents and code
 
 ### For adding a new branch for POC please reachout to below members :
 - [@gem-akshikhattar](https://github.com/gem-akshikhattar)
 - [@gem-abhisheksharma](https://github.com/gem-abhisheksharma)
+- [@gem-rahulsingh](https://github.com/gem-rahulsingh)
 
 <!---
 gem-akshikhattar/gem-akshikhattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
