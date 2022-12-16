@@ -1,0 +1,21 @@
+<testsuites name="test suites root">
+  <testsuite failures="0" errors="0" skipped="1" tests="1" time="0.05" name="tests.LoginTests">
+    <properties>
+      <property name="setting1" value="True"/>
+    </properties>
+    <testcase classname="tests.LoginTests" name="test_case_1" time="159">
+      
+     </testcase>
+    <testcase classname="tests.LoginTests" name="test_case_2" time="650">
+      <failure type="pytest.failure" message="Fail due to..."  >
+        failed due to…
+        </failure>
+      
+    </testcase>
+    <testcase classname="tests.LoginTests" name="test_case_3" time="159">
+      <failure type="pytest.failure" message="Fail due to...">
+        failed due to…
+      </failure>
+    </testcase>
+  </testsuite>
+</testsuites>
