@@ -21,6 +21,7 @@
 ### Must have files :
 - Installation Guide
 - Working Project
+- What value will the POC add
 - POC PPT with Advantages/Disadvantages and What to learn!
 - Related documents and code
 
